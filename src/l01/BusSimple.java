@@ -17,7 +17,7 @@ public class BusSimple {
             System.out.println("Ölwechsel durchgeführt");
             kmGefahren = 0;
         } else {
-            System.out.println("Ölwechsel nicht erforderlich");
+            System.out.println("Ölwechsel nicht mehr erforderlich");
         }
     }
 }
